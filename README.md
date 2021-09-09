@@ -16,3 +16,9 @@ A simple wifi-clock based on esp8266
 板子四周预留了M3螺丝空位，可加铜柱、外壳。
 
 结构简单，所需原件很少，但需要很多LED哈哈哈ヾ(≧▽≦*)o
+
+
+![image](https://github.com/tantaizining/simple_wifi_clock/blob/main/images/1.jpg)
+
+
+![image](https://github.com/tantaizining/simple_wifi_clock/blob/main/images/2.jpg)
