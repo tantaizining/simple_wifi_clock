@@ -17,6 +17,8 @@ A simple wifi-clock based on esp8266
 
 结构简单，所需原件很少，但需要很多LED哈哈哈ヾ(≧▽≦*)o
 
+以下为图片，如加载不出来，请访问https://gitee.com/tantaizining/simple_wifi_clock
+
 
 ![image1](https://gitee.com/tantaizining/simple_wifi_clock/raw/main/images/1.jpg)
 
