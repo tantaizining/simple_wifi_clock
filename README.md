@@ -3,7 +3,8 @@ A simple wifi-clock based on esp8266
 
 基于esp8266的WiFi时钟
 
-由于之前画pcb的电脑还在维修，目前无法上传pcb文件捂脸(ﾟДﾟ*)ﾉ
+//由于之前画pcb的电脑还在维修，目前无法上传pcb文件捂脸(ﾟДﾟ*)ﾉ
+电脑终于修好了！！！已经上传Gerber文件
 
 用LED来搭建一个数码管，采用TM1637驱动。
 
